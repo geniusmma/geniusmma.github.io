@@ -1,0 +1,927 @@
+{
+  "person": {
+    "name": "Michael Asistin",
+    "headline": "Construction coordination. Confident estimating. Better workflows.",
+    "summary": "I support construction teams with project coordination, estimating and quantity surveying, bringing the same practical approach to Power BI and automation. From takeoffs and RFIs to cost reporting and procurement trackers, I help organize the details that keep projects moving.",
+    "email": "asistinmichael@gmail.com",
+    "linkedin": "",
+    "location": "San Pablo City, Laguna, Philippines",
+    "credentials": [
+      {
+        "title": "AssocRICS · Quantity Surveying",
+        "body": "Royal Institution of Chartered Surveyors"
+      },
+      {
+        "title": "Certified Project Management Practitioner",
+        "body": "APMG International"
+      },
+      {
+        "title": "Licensed Civil Engineer",
+        "body": "Philippines · BS Civil Engineering"
+      }
+    ]
+  },
+  "companies": [
+    {
+      "id": "arcadis",
+      "name": "Arcadis",
+      "role": "Business Intelligence & Automation Specialist · Quantity Surveying",
+      "period": "Jan 2019–Present",
+      "status": "Current",
+      "summary": "Cost management and digital delivery across infrastructure, utilities and procurement: estimates, commercial reporting, common data environments, Power BI and automation.",
+      "scope": [
+        "Business intelligence and procurement reporting",
+        "Workflow automation and data validation",
+        "Infrastructure cost planning and quantity surveying",
+        "Stakeholder review, UAT and release coordination"
+      ],
+      "deliverables": [
+        "Power BI reports and semantic models",
+        "Smartsheet common data environments",
+        "Power Automate and VBA workflows",
+        "Cost plans, pre-tender estimates and commercial trackers"
+      ],
+      "tools": [
+        "Power BI",
+        "Power Query",
+        "DAX",
+        "Power Automate",
+        "SharePoint",
+        "Smartsheet",
+        "Excel",
+        "VBA",
+        "Power Apps"
+      ],
+      "projectIds": [
+        "procurement-holds",
+        "weekly-snapshots",
+        "po-lifecycle",
+        "peripherals-turnaround",
+        "procurement-performance",
+        "pdf-email-workflow",
+        "infrastructure-cde",
+        "cost-intelligence",
+        "financial-reporting",
+        "excel-automation",
+        "infrastructure-estimating"
+      ]
+    },
+    {
+      "id": "workstaff360",
+      "name": "WorkStaff360 / O’Dorisio Carpentry & Concrete",
+      "role": "Construction Project Coordinator · Estimator · Project Admin",
+      "period": "Started Oct 2025 · completed engagement",
+      "status": "Completed engagement",
+      "summary": "Remote support for U.S. construction teams, combining project documentation and procurement tracking with concrete estimating and change-order pricing support.",
+      "scope": [
+        "RFIs, submittals and safety data sheets",
+        "Concrete, rebar, slab and foundation takeoffs",
+        "Procurement, purchase orders and project tracking",
+        "Bid coordination and subcontractor follow-up"
+      ],
+      "deliverables": [
+        "RFI and submittal trackers",
+        "SDS packages and meeting action logs",
+        "Takeoff markups and pricing sheets",
+        "Procurement and project status records"
+      ],
+      "tools": [
+        "Procore",
+        "ProjectHQ",
+        "Bluebeam",
+        "Excel",
+        "SharePoint"
+      ],
+      "projectIds": [
+        "us-construction-support"
+      ]
+    },
+    {
+      "id": "transitional-builders",
+      "name": "Transitional Builders, Inc.",
+      "role": "Construction VA · Project Coordinator · Estimator · Project Admin",
+      "period": "Ended Sep 2026 · approximately 5 months",
+      "status": "Completed engagement",
+      "summary": "A completed engagement supporting preconstruction, takeoffs, bid coordination, change events and project administration.",
+      "scope": [
+        "Takeoffs and drawing review",
+        "Bid coordination and contractor outreach",
+        "RFIs, contract review and change events",
+        "Document control and correspondence"
+      ],
+      "deliverables": [
+        "Takeoff and pricing inputs",
+        "Bid and contractor coordination records",
+        "Change-event documentation",
+        "Organized drawings and project correspondence"
+      ],
+      "tools": [
+        "Procore",
+        "Bluebeam",
+        "Excel",
+        "Gmail",
+        "Google Drive",
+        "Autodesk",
+        "PlanSwift"
+      ],
+      "projectIds": [
+        "transitional-preconstruction"
+      ]
+    },
+    {
+      "id": "timberworx",
+      "name": "TimberWorx",
+      "role": "Construction VA · Project Coordinator · Estimator",
+      "period": "Dec 2025–May 2026",
+      "status": "Completed engagement",
+      "summary": "Construction administration and estimating support across takeoffs, drawing review, change events, contractor outreach and bid preparation.",
+      "scope": [
+        "Estimating and takeoff support",
+        "Procore change events",
+        "Bid invitations and pricing coordination",
+        "RFIs and construction administration"
+      ],
+      "deliverables": [
+        "Takeoff records and pricing inputs",
+        "Change-event updates",
+        "Bid invitations and follow-up correspondence",
+        "Organized plans and project documents"
+      ],
+      "tools": [
+        "Procore",
+        "Bluebeam",
+        "Excel",
+        "Gmail",
+        "Google Drive",
+        "Autodesk",
+        "PlanSwift"
+      ],
+      "projectIds": [
+        "timberworx-estimating"
+      ]
+    },
+    {
+      "id": "goel",
+      "name": "GOEL Construction",
+      "role": "Estimator · Construction Support",
+      "period": "2021–2025",
+      "status": "Earlier experience",
+      "summary": "Demolition estimating and cost planning, supported by manpower coordination, pricing checks and subcontractor communication.",
+      "scope": [
+        "Demolition project estimation",
+        "Cost planning and pricing checks",
+        "Manpower and resource coordination",
+        "Subcontractor RFI responses"
+      ],
+      "deliverables": [
+        "Estimate and cost-planning support",
+        "Resource coordination inputs",
+        "Pricing checks and RFI responses"
+      ],
+      "tools": [],
+      "projectIds": [
+        "demolition-estimating"
+      ]
+    },
+    {
+      "id": "convergence-esl",
+      "name": "Convergence Realty / ESL Construction",
+      "role": "Quantity Surveyor · Cost Control",
+      "period": "Earlier experience",
+      "status": "Earlier experience",
+      "summary": "Quantity surveying and commercial documentation for development projects, including cost control, payment evaluation and financial reporting.",
+      "scope": [
+        "Quantity surveying and project cost updates",
+        "Contractor payment certification",
+        "Claims and payment evaluation",
+        "Commercial documentation"
+      ],
+      "deliverables": [
+        "Cost updates and financial reports",
+        "Contractor payment evaluations",
+        "Commercial and claims documentation"
+      ],
+      "tools": [],
+      "projectIds": [
+        "development-cost-control"
+      ]
+    },
+    {
+      "id": "mega-m",
+      "name": "Mega M Builder / Freelance Projects",
+      "role": "Civil Engineer · Project Coordinator · Estimator",
+      "period": "Earlier experience",
+      "status": "Earlier experience",
+      "summary": "Planning, budgeting and construction supervision for local government schools and roads, hospital expansion and commercial works.",
+      "scope": [
+        "Project planning and estimating",
+        "Budgeting and cost control",
+        "Manpower, materials and subcontractor coordination",
+        "Construction supervision and site progress"
+      ],
+      "deliverables": [
+        "Project estimates and budgets",
+        "Resource and procurement coordination",
+        "Site progress and construction records"
+      ],
+      "tools": [],
+      "projectIds": [
+        "community-construction"
+      ]
+    },
+    {
+      "id": "sta-clara",
+      "name": "Sta. Clara International Corporation",
+      "role": "Tendering Engineer · Site Engineer · Quantity Surveyor",
+      "period": "Earlier experience",
+      "status": "Earlier experience",
+      "summary": "Tendering, site engineering, quantity surveying and material control for building and infrastructure assignments.",
+      "scope": [
+        "Tender quantity takeoff and cost preparation",
+        "Site quantity surveying",
+        "Material control and tracking",
+        "Infrastructure bid support"
+      ],
+      "deliverables": [
+        "Tender and estimate inputs",
+        "Quantity and material records",
+        "Site measurement and construction documentation"
+      ],
+      "tools": [],
+      "projectIds": [
+        "tendering-site-qs"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "procurement-holds",
+      "title": "Procurement holds reporting",
+      "companyId": "arcadis",
+      "category": "Data & BI",
+      "summary": "Rebuilding spreadsheet reporting in Power BI, with separate views for the latest reporting week and historical trends.",
+      "status": "In progress",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "A procurement reporting process needed to retain its existing history while transitioning future reporting to automated weekly data. The model must distinguish current-position metrics from changes across reporting weeks.",
+      "contributions": [
+        "Reviewed the existing workbook and agreed an approach to preserve historical reporting while introducing new weekly sources.",
+        "Created history and latest-snapshot queries, reviewed table relationships and resolved import, empty-table and cyclic-reference issues.",
+        "Reviewed DAX measures for source dependencies, reporting grain and consistent metric definitions.",
+        "Investigated repeated purchase-order records to distinguish expected one-to-many relationships from possible duplication.",
+        "Reviewed currency mappings and conversion consistency, then coordinated reconciliation and stakeholder validation."
+      ],
+      "deliverables": [
+        "Power BI model with history and latest-snapshot queries",
+        "Overview and weekly-trend measures under validation",
+        "Data-quality and duplicate-record assessment",
+        "Reconciliation and model-cleanup actions"
+      ],
+      "tools": [
+        "Power BI",
+        "Power Query",
+        "DAX",
+        "SharePoint",
+        "Excel"
+      ],
+      "outcome": "The source transition and weekly snapshot process are in place. Model cleanup, measure review, currency validation and stakeholder acceptance remain in progress as of 23 September 2026.",
+      "nextSteps": [
+        "Complete measure and relationship review.",
+        "Validate current-period totals and comparable weekly trends.",
+        "Resolve outstanding data-quality and currency-mapping questions.",
+        "Complete sign-off, refresh and release checks."
+      ],
+      "workflow": [
+        "Source review",
+        "Snapshot model",
+        "Measure development",
+        "Reconciliation",
+        "Stakeholder validation"
+      ]
+    },
+    {
+      "id": "weekly-snapshots",
+      "title": "Weekly reporting snapshot automation",
+      "companyId": "arcadis",
+      "category": "Automation",
+      "summary": "Preserving dated weekly source files so reporting can show a reliable history alongside the latest available position.",
+      "status": "Implemented · monitoring",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "Replacing source files each week loses the evidence needed for trend reporting. The reporting workflow needed to collect current inputs without overwriting earlier reporting periods.",
+      "contributions": [
+        "Updated a Power Automate process to collect the latest source files and create dated copies in SharePoint.",
+        "Expanded the flow to cover a multi-file source structure while retaining earlier weekly files.",
+        "Built Power Query steps to combine matching files and identify their reporting dates.",
+        "Added empty-source checks and separate latest-snapshot queries for current-position reporting.",
+        "Confirmed successful flow runs after the source update and identified ongoing validation needs."
+      ],
+      "deliverables": [
+        "Weekly file-copy automation",
+        "Dated SharePoint reporting archive",
+        "Combined history queries",
+        "Latest-snapshot queries and empty-input checks"
+      ],
+      "tools": [
+        "Power Automate",
+        "SharePoint",
+        "Power Query",
+        "Power BI"
+      ],
+      "outcome": "The updated automation has run successfully and preserves weekly files. Monitoring and reporting validation continue.",
+      "nextSteps": [
+        "Monitor scheduled runs and source completeness.",
+        "Validate that new reporting weeks appear correctly in both current and trend views."
+      ],
+      "workflow": [
+        "Collect source files",
+        "Create dated copies",
+        "Combine weekly history",
+        "Identify latest period",
+        "Validate refresh"
+      ]
+    },
+    {
+      "id": "po-lifecycle",
+      "title": "Purchase-order lifecycle reporting",
+      "companyId": "arcadis",
+      "category": "Data & BI",
+      "summary": "Implementing requested reporting changes for purchase-order closure and reopening, with validation and release support.",
+      "status": "Implemented · support",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "Procurement teams required changes to lifecycle reporting so eligibility and invoice information reflected updated process requirements.",
+      "contributions": [
+        "Updated closure-eligibility and exclusion logic in response to agreed change requests.",
+        "Revised pending-invoice treatment using the required in-flight information.",
+        "Coordinated related report and process changes with stakeholders.",
+        "Supported validation, sign-off preparation, deployment and checks after release.",
+        "Supported movement through development, test and production environments and investigated refresh and connection issues."
+      ],
+      "deliverables": [
+        "Revised reporting and eligibility logic",
+        "Validation and sign-off support",
+        "Deployment and post-release checks",
+        "Refresh and connection troubleshooting"
+      ],
+      "tools": [
+        "Power BI",
+        "SharePoint",
+        "Power Platform"
+      ],
+      "outcome": "Requested logic changes were implemented. Deployment, refresh and report support remain part of the ongoing work.",
+      "nextSteps": [
+        "Continue post-release validation and refresh support as required."
+      ],
+      "workflow": [
+        "Review change request",
+        "Update logic",
+        "Validate outputs",
+        "Deploy",
+        "Check production"
+      ]
+    },
+    {
+      "id": "peripherals-turnaround",
+      "title": "IT request turnaround dashboard",
+      "companyId": "arcadis",
+      "category": "Data & BI",
+      "summary": "A reporting suite that connects request details, turnaround views and automated process timestamps.",
+      "status": "Delivered · support",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "An IT peripherals process needed reporting that could show both the overall position and the detail behind request turnaround times.",
+      "contributions": [
+        "Created summary, request-detail and turnaround-time reporting pages.",
+        "Built Power Automate timestamp capture to support process tracking.",
+        "Refined report logic and presentation following stakeholder review.",
+        "Supported user acceptance testing, issue resolution, sign-off and production deployment.",
+        "Completed release checks and provided follow-on support."
+      ],
+      "deliverables": [
+        "Summary dashboard",
+        "Request-detail report",
+        "Turnaround reporting views",
+        "Timestamp automation",
+        "UAT and production-release support"
+      ],
+      "tools": [
+        "Power BI",
+        "Power Automate"
+      ],
+      "outcome": "The reporting solution was delivered to production with UAT and sign-off support. The workstream is in ongoing support.",
+      "nextSteps": [],
+      "workflow": [
+        "Map tracking needs",
+        "Capture timestamps",
+        "Build report pages",
+        "UAT & revisions",
+        "Production release"
+      ]
+    },
+    {
+      "id": "procurement-performance",
+      "title": "Procurement performance reporting",
+      "companyId": "arcadis",
+      "category": "Data & BI",
+      "summary": "Power BI reporting from operational exports, combining year-to-date, trend and transaction-level views.",
+      "status": "Awaiting publication decision",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "A procurement reporting workstream needed business-facing views of operational data, supported by source validation and an agreed publication and access approach.",
+      "contributions": [
+        "Built Power BI reporting from OTBI exports.",
+        "Created year-to-date, trend and transaction-detail views.",
+        "Reviewed source fields and additional information needed for reporting.",
+        "Supported filters, business validation, security review and publication planning."
+      ],
+      "deliverables": [
+        "Year-to-date reporting",
+        "Trend analysis",
+        "Transaction-detail views",
+        "Source and publication review support"
+      ],
+      "tools": [
+        "Power BI",
+        "OTBI exports"
+      ],
+      "outcome": "Reporting has been built. The production publication and access decision remains pending in the latest work update.",
+      "nextSteps": [
+        "Complete any outstanding business and source validation.",
+        "Confirm publication and access arrangements with the responsible stakeholders."
+      ],
+      "workflow": [
+        "Review source exports",
+        "Build reporting views",
+        "Validate business results",
+        "Review access",
+        "Plan publication"
+      ]
+    },
+    {
+      "id": "pdf-email-workflow",
+      "title": "PDF email workflow troubleshooting",
+      "companyId": "arcadis",
+      "category": "Automation",
+      "summary": "Investigating an automation that sends an extra email with an empty or incorrectly named PDF attachment.",
+      "status": "Under review",
+      "period": "September 2026 update",
+      "role": "BI & Automation Specialist",
+      "context": "A document workflow was producing the required PDF email as well as an unwanted second output. The investigation focused on identifying the branch responsible for the incorrect attachment.",
+      "contributions": [
+        "Reviewed flow branches, document-generation actions, attachment names and email actions.",
+        "Compared the incorrect output with the required summary PDF.",
+        "Reviewed the branch responsible for the incorrect output while preserving the required-document path.",
+        "Defined a controlled test to verify the final email count, attachment name and document content."
+      ],
+      "deliverables": [
+        "Flow-branch review",
+        "Incorrect-output assessment",
+        "Targeted correction approach",
+        "Controlled validation criteria"
+      ],
+      "tools": [
+        "Power Automate"
+      ],
+      "outcome": "The issue is under review. A successful end-to-end correction is not yet recorded in the latest work update.",
+      "nextSteps": [
+        "Complete the targeted branch correction.",
+        "Run a controlled test confirming one email with the correct attachment and content."
+      ],
+      "workflow": [
+        "Trace flow branches",
+        "Compare outputs",
+        "Target the incorrect branch",
+        "Run controlled test"
+      ]
+    },
+    {
+      "id": "infrastructure-cde",
+      "title": "Common data environments for project teams",
+      "companyId": "arcadis",
+      "category": "Automation",
+      "summary": "Smartsheet environments bringing project data, forms, trackers and reporting into connected workflows.",
+      "status": "Delivered work",
+      "period": "2022–2025",
+      "role": "Smartsheet Development · Digital Delivery",
+      "context": "Infrastructure and utilities teams needed shared structures for collecting information, tracking delivery and reporting across functions. The work combined a common data environment initiative with project automation assignments.",
+      "contributions": [
+        "Helped lead a common data environment initiative and built and deployed Smartsheet-based solutions.",
+        "Created databases, forms, dashboards and tracking workflows for project reporting.",
+        "Automated tracking and cross-team collaboration processes.",
+        "Worked with project management, commercial, technical and digital teams to align workflows with delivery needs.",
+        "Supported applications across major infrastructure and water-sector programs."
+      ],
+      "deliverables": [
+        "Smartsheet common data environments",
+        "Data-entry forms and project databases",
+        "Dashboards and tracking workflows",
+        "Connected project reporting processes"
+      ],
+      "tools": [
+        "Smartsheet"
+      ],
+      "outcome": "Common data environments and project automation workflows were built and deployed across multiple infrastructure and utility assignments.",
+      "nextSteps": [],
+      "workflow": [
+        "Structure project data",
+        "Build forms & trackers",
+        "Connect reporting",
+        "Deploy shared workflows"
+      ]
+    },
+    {
+      "id": "cost-intelligence",
+      "title": "Cost benchmarking and project intelligence",
+      "companyId": "arcadis",
+      "category": "Data & BI",
+      "summary": "Power BI work spanning transmission cost benchmarking, survey compliance, cost forecasts and defect monitoring.",
+      "status": "Delivered work",
+      "period": "2022–2024",
+      "role": "Power BI Development · Cost Reporting",
+      "context": "A series of reporting assignments translated cost and project data into views for comparison, monitoring and review. These included onshore transmission benchmarking, compliance reporting and infrastructure cost trackers.",
+      "contributions": [
+        "Co-developed a transmission-project benchmarking dashboard using historical cost data.",
+        "Designed a red, amber and green survey-compliance tracker.",
+        "Built interactive reporting for project costs and defect monitoring.",
+        "Developed cost-tracker views covering financial performance, forecasts and resource allocations."
+      ],
+      "deliverables": [
+        "Historical cost-benchmarking dashboard",
+        "Survey-compliance RAG tracker",
+        "Cost and defect reporting",
+        "Forecast and resource-allocation views"
+      ],
+      "tools": [
+        "Power BI"
+      ],
+      "outcome": "Delivered a portfolio of dashboards covering cost comparison, project financial reporting, compliance and defects. Each assignment addressed a distinct reporting need.",
+      "nextSteps": [],
+      "workflow": [
+        "Review reporting need",
+        "Prepare project data",
+        "Build comparison views",
+        "Support project reporting"
+      ]
+    },
+    {
+      "id": "financial-reporting",
+      "title": "Connected financial reporting",
+      "companyId": "arcadis",
+      "category": "Automation",
+      "summary": "Connecting spreadsheets and forms through Smartsheet and Power BI for centralized financial reporting.",
+      "status": "Delivered work",
+      "period": "2023",
+      "role": "Financial Reporting Automation",
+      "context": "A financial reporting assignment required information from multiple spreadsheets and forms to be brought together in one reporting system.",
+      "contributions": [
+        "Created a centralized financial reporting system using Smartsheet and Power BI.",
+        "Integrated inputs from multiple spreadsheets and forms.",
+        "Connected structured data collection with report development for commercial reporting."
+      ],
+      "deliverables": [
+        "Centralized financial reporting system",
+        "Connected spreadsheet and form inputs",
+        "Power BI reporting views"
+      ],
+      "tools": [
+        "Smartsheet",
+        "Power BI",
+        "Excel"
+      ],
+      "outcome": "Built a connected reporting system that brought multiple financial inputs into a shared reporting workflow.",
+      "nextSteps": [],
+      "workflow": [
+        "Collect reporting inputs",
+        "Structure shared data",
+        "Connect Smartsheet",
+        "Build financial views"
+      ]
+    },
+    {
+      "id": "excel-automation",
+      "title": "Timesheet, reconciliation and costing tools",
+      "companyId": "arcadis",
+      "category": "Automation",
+      "summary": "Practical Excel and VBA tools for recurring timesheets, record reconciliation, cost summaries and program generation.",
+      "status": "Delivered work",
+      "period": "2021–2022",
+      "role": "VBA & Excel Automation",
+      "context": "Recurring commercial and administrative tasks required repeatable processing across timesheet production, record matching and cost-and-schedule calculations.",
+      "contributions": [
+        "Automated Oracle-based timesheet generation with PDF outputs organized by team and cost center.",
+        "Built a reconciliation tool to align submission records with actual logs.",
+        "Developed Excel tools using Solver for baseline program generation and cost summaries."
+      ],
+      "deliverables": [
+        "Timesheet generation bot with PDF output",
+        "Submission-to-actual reconciliation tool",
+        "Costing and scheduling workbooks",
+        "Baseline program and cost-summary outputs"
+      ],
+      "tools": [
+        "Excel",
+        "VBA",
+        "Solver"
+      ],
+      "outcome": "Delivered tools for recurring timesheet generation, reconciliation, costing and scheduling tasks. These are separate assignments presented together as an automation portfolio.",
+      "nextSteps": [],
+      "workflow": [
+        "Identify repeatable task",
+        "Structure source records",
+        "Build processing logic",
+        "Generate reviewable outputs"
+      ]
+    },
+    {
+      "id": "infrastructure-estimating",
+      "title": "Infrastructure cost planning and estimates",
+      "companyId": "arcadis",
+      "category": "Cost & QS",
+      "summary": "Pre-tender estimates, cost plans and commercial support across transport, local authority and utilities assignments.",
+      "status": "Delivered work",
+      "period": "2020–2025",
+      "role": "Quantity Surveyor · Cost Consultant",
+      "context": "Infrastructure and utility assignments required cost advice and reporting to support planning and commercial decisions before and during delivery.",
+      "contributions": [
+        "Produced pre-tender estimates and cost support for station, highway and local-authority assignments.",
+        "Delivered cost planning, cost management and commercial reporting support.",
+        "Supported forecasting and cost-control workflows across infrastructure and utilities.",
+        "Carried out service-record compliance and accuracy review on a water-sector assignment.",
+        "Worked with commercial, technical and project teams on cost information and reporting requirements."
+      ],
+      "deliverables": [
+        "Pre-tender estimates",
+        "Cost plans and commercial reports",
+        "Forecasting and cost-control support",
+        "Compliance and record-review outputs"
+      ],
+      "tools": [
+        "Excel"
+      ],
+      "outcome": "Provided estimates, cost plans and reporting support across transport, local-authority and water-sector projects.",
+      "nextSteps": [],
+      "workflow": [
+        "Review scope",
+        "Prepare cost inputs",
+        "Develop estimate or cost plan",
+        "Support commercial review"
+      ]
+    },
+    {
+      "id": "us-construction-support",
+      "title": "U.S. construction coordination and concrete estimating",
+      "companyId": "workstaff360",
+      "category": "Construction",
+      "summary": "Day-to-day project administration paired with estimating support for concrete, rebar, slabs, foundations and changes.",
+      "status": "Completed engagement",
+      "period": "Started Oct 2025 · completed engagement",
+      "role": "Construction Project Coordinator · Estimator · Project Admin",
+      "context": "Remote support for U.S. commercial construction teams across multiple assignments. The work combines keeping project information current with preparing quantities, pricing inputs and coordination records.",
+      "contributions": [
+        "Prepared and tracked RFIs, submittals, safety data sheets, meeting notes and action logs.",
+        "Supported quantity takeoff and estimates for concrete, rebar, slabs and foundations.",
+        "Assisted with change-order pricing, bid comparisons, material pricing and scope clarifications.",
+        "Coordinated procurement items, purchase orders, schedule updates, bid invitations and subcontractor follow-ups.",
+        "Maintained drawings, correspondence and project status records across construction and collaboration platforms."
+      ],
+      "deliverables": [
+        "RFI logs and submittal trackers",
+        "SDS packages and meeting action lists",
+        "Takeoff markups and estimating inputs",
+        "Pricing sheets and change-order support",
+        "Procurement and project status trackers"
+      ],
+      "tools": [
+        "Procore",
+        "ProjectHQ",
+        "Bluebeam",
+        "Excel",
+        "SharePoint"
+      ],
+      "outcome": "Provided coordination and estimating support across multiple U.S. commercial construction workstreams during a completed engagement.",
+      "nextSteps": [],
+      "workflow": [
+        "Review drawings & scope",
+        "Prepare quantities & records",
+        "Coordinate information",
+        "Track actions & procurement",
+        "Maintain current project status"
+      ]
+    },
+    {
+      "id": "transitional-preconstruction",
+      "title": "Preconstruction and project administration",
+      "companyId": "transitional-builders",
+      "category": "Construction",
+      "summary": "Takeoff, bid and document coordination during a completed engagement of approximately five months.",
+      "status": "Completed engagement",
+      "period": "Ended Sep 2026 · approximately 5 months",
+      "role": "Construction VA · Project Coordinator · Estimator · Project Admin",
+      "context": "Construction support spanning preconstruction activities and project administration. This engagement has ended; Transitional Builders is a former employer.",
+      "contributions": [
+        "Supported takeoffs, drawing review and estimate preparation.",
+        "Coordinated bid invitations, contractor outreach and pricing inputs.",
+        "Reviewed contracts and project information to support preconstruction and administrative tasks.",
+        "Supported RFIs and Procore change-event records.",
+        "Organized drawings, project correspondence and follow-ups across collaboration tools."
+      ],
+      "deliverables": [
+        "Takeoff and pricing inputs",
+        "Bid coordination records",
+        "RFI and change-event support",
+        "Organized project documents and correspondence"
+      ],
+      "tools": [
+        "Procore",
+        "Bluebeam",
+        "Excel",
+        "Gmail",
+        "Google Drive",
+        "Autodesk",
+        "PlanSwift"
+      ],
+      "outcome": "Completed approximately five months of construction coordination, estimating and project administration support, ending in September. Michael no longer works with Transitional Builders, Inc.",
+      "nextSteps": [],
+      "workflow": [
+        "Review drawings",
+        "Prepare takeoff inputs",
+        "Coordinate bids",
+        "Track changes & RFIs",
+        "Maintain documentation"
+      ]
+    },
+    {
+      "id": "timberworx-estimating",
+      "title": "Estimating, bids and change-event support",
+      "companyId": "timberworx",
+      "category": "Construction",
+      "summary": "Drawing review, takeoffs and pricing support connected to bid coordination and Procore change events.",
+      "status": "Completed engagement",
+      "period": "Dec 2025–May 2026",
+      "role": "Construction VA · Project Coordinator · Estimator",
+      "context": "A remote construction-support role covering estimating and project administration from drawing review through pricing, correspondence and change-event updates.",
+      "contributions": [
+        "Reviewed plans and project instructions to support preconstruction and contract administration.",
+        "Prepared takeoff and pricing support for estimating activities.",
+        "Supported Procore change events and their related documentation.",
+        "Coordinated bid invitations, contractor outreach, RFIs and email follow-ups.",
+        "Organized plans, pricing and correspondence for project use."
+      ],
+      "deliverables": [
+        "Takeoff and pricing records",
+        "Procore change-event updates",
+        "Bid invitations and contractor correspondence",
+        "RFI support and organized project documents"
+      ],
+      "tools": [
+        "Procore",
+        "Bluebeam",
+        "Excel",
+        "Gmail",
+        "Google Drive",
+        "Autodesk",
+        "PlanSwift"
+      ],
+      "outcome": "Completed construction estimating and administration support during the December 2025 to May 2026 engagement.",
+      "nextSteps": [],
+      "workflow": [
+        "Review plans",
+        "Measure & price",
+        "Prepare bid information",
+        "Coordinate responses",
+        "Update project records"
+      ]
+    },
+    {
+      "id": "demolition-estimating",
+      "title": "Demolition estimates and resource coordination",
+      "companyId": "goel",
+      "category": "Cost & QS",
+      "summary": "Supporting demolition cost planning alongside manpower allocation and subcontractor information requests.",
+      "status": "Earlier work",
+      "period": "2021–2025",
+      "role": "Estimator · Construction Support",
+      "context": "Demolition projects required cost and resource coordination as well as clear communication between project stakeholders and subcontractors.",
+      "contributions": [
+        "Assisted with demolition project estimates and cost planning.",
+        "Supported pricing checks and project planning inputs.",
+        "Helped coordinate manpower and resource requirements.",
+        "Supported responses to subcontractor RFIs and project communication."
+      ],
+      "deliverables": [
+        "Demolition estimate support",
+        "Cost-planning and pricing inputs",
+        "Manpower coordination inputs",
+        "Subcontractor RFI responses"
+      ],
+      "tools": [],
+      "outcome": "Provided estimating, resource coordination and subcontractor communication support for demolition work.",
+      "nextSteps": [],
+      "workflow": [
+        "Review project requirements",
+        "Support estimate preparation",
+        "Coordinate resources",
+        "Resolve information requests"
+      ]
+    },
+    {
+      "id": "development-cost-control",
+      "title": "Development cost control and payment evaluation",
+      "companyId": "convergence-esl",
+      "category": "Cost & QS",
+      "summary": "Quantity surveying, contractor payment evaluation and cost reporting for large development projects.",
+      "status": "Earlier work",
+      "period": "Earlier experience",
+      "role": "Quantity Surveyor · Cost Control",
+      "context": "Development projects required consistent commercial records to support cost control, contractor claims and payment certification.",
+      "contributions": [
+        "Handled quantity surveying and cost-control responsibilities.",
+        "Supported contractor payment evaluation and certification.",
+        "Prepared project cost updates and financial reporting.",
+        "Maintained commercial documentation and supported contractor claims review."
+      ],
+      "deliverables": [
+        "Project cost updates",
+        "Contractor payment evaluations",
+        "Financial reports",
+        "Claims and commercial documentation"
+      ],
+      "tools": [],
+      "outcome": "Provided quantity surveying and commercial support for large-scale development assignments.",
+      "nextSteps": [],
+      "workflow": [
+        "Review quantities & claims",
+        "Evaluate payments",
+        "Update project costs",
+        "Prepare commercial reports"
+      ]
+    },
+    {
+      "id": "community-construction",
+      "title": "Schools, roads and building project delivery",
+      "companyId": "mega-m",
+      "category": "Construction",
+      "summary": "Planning, estimating, budgeting and site coordination across community infrastructure and building works.",
+      "status": "Earlier work",
+      "period": "Earlier experience",
+      "role": "Civil Engineer · Project Coordinator · Estimator",
+      "context": "Small to mid-sized construction assignments included local-government schools and roads, hospital expansion and commercial works, requiring coordination from planning through site execution.",
+      "contributions": [
+        "Managed planning, estimating and budgeting activities.",
+        "Supported procurement coordination and cost control.",
+        "Coordinated manpower, materials and subcontractors.",
+        "Supervised construction activities and monitored site progress.",
+        "Maintained project information and basic construction documentation."
+      ],
+      "deliverables": [
+        "Estimates and project budgets",
+        "Resource and procurement coordination",
+        "Site supervision and progress records",
+        "Construction documentation"
+      ],
+      "tools": [],
+      "outcome": "Managed and coordinated a range of community infrastructure and building works from planning through construction supervision.",
+      "nextSteps": [],
+      "workflow": [
+        "Plan scope & budget",
+        "Coordinate resources",
+        "Supervise site work",
+        "Track progress & cost"
+      ]
+    },
+    {
+      "id": "tendering-site-qs",
+      "title": "Infrastructure tendering and site quantity surveying",
+      "companyId": "sta-clara",
+      "category": "Cost & QS",
+      "summary": "Early technical and commercial experience across tenders, material control, site measurement and construction documentation.",
+      "status": "Earlier work",
+      "period": "Earlier experience",
+      "role": "Tendering Engineer · Site Engineer · Quantity Surveyor",
+      "context": "Building and infrastructure assignments provided experience across bid preparation and site delivery, including hydro and industrial project exposure.",
+      "contributions": [
+        "Supported tendering, quantity takeoff and cost preparation for building and infrastructure bids.",
+        "Contributed to a major highway tender package.",
+        "Supported site quantity surveying, material control and tracking.",
+        "Prepared site measurement and construction documentation.",
+        "Progressed from cadet to junior quantity-surveying responsibilities."
+      ],
+      "deliverables": [
+        "Tender quantity and cost inputs",
+        "Material-control records",
+        "Site quantity-surveying support",
+        "Measurement and construction documentation"
+      ],
+      "tools": [],
+      "outcome": "Built practical experience across tender preparation, site engineering and quantity surveying, progressing into junior QS responsibilities.",
+      "nextSteps": [],
+      "workflow": [
+        "Review tender or site requirements",
+        "Measure quantities",
+        "Prepare cost & material records",
+        "Support technical review"
+      ]
+    }
+  ]
+}
