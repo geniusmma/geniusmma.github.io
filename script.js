@@ -29,7 +29,7 @@
     cards.forEach(card=>card.hidden=true);
     const start=(currentPage-1)*pageSize;
     matching.slice(start,start+pageSize).forEach(card=>card.hidden=false);
-    count.textContent=matching.length?`${start+1}–${Math.min(start+pageSize,matching.length)} of ${matching.length} projects`:'0 projects';
+    count.textContent=matching.length?`${start+1} to ${Math.min(start+pageSize,matching.length)} of ${matching.length} projects`:'0 projects';
     empty.hidden=matching.length>0;pagination.hidden=totalPages<=1;
     previous.disabled=currentPage===1;next.disabled=currentPage===totalPages;pageLabel.textContent=`Page ${currentPage} of ${totalPages}`;
     if(sync){const p=new URLSearchParams();if(search.value.trim())p.set('q',search.value.trim());if(select.value!=='All work')p.set('category',select.value);if(currentPage>1)p.set('page',currentPage);try{history.replaceState(null,'',location.pathname+(p.size?'?'+p:'')+location.hash);}catch(_){}}
