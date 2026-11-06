@@ -2,7 +2,7 @@
 
 A minimalist static portfolio for https://geniusmma.github.io/ .
 
-The homepage introduces Michael, highlights three pieces of work, and summarizes recent company experience. The work library supports search, category filtering and six projects per page. Detailed pages retain contributions, deliverables and status, with optional context and process sections.
+The homepage presents target roles and availability, highlights three pieces of work with concrete contributions and deliverables, and summarizes recent company experience. The design uses spacious typography, white and soft gray surfaces, and a restrained orange accent. The work library supports search, category filtering and six projects per page. Detailed pages retain contributions, deliverables and status, with optional context and process sections.
 
 ## Content and maintenance
 
@@ -15,4 +15,4 @@ The homepage introduces Michael, highlights three pieces of work, and summarizes
 
 No Node installation, build service, or application framework is required for hosting. GitHub Pages serves the generated files directly from the repository root.
 
-Arcadis project names are withheld. Transitional Builders ended in September 2026 after approximately five months. WorkStaff360 / O'Dorisio is a past engagement. Public contact is email; phone is available on request.
+Arcadis project names are withheld. All engagements are completed; Arcadis ended in October 2026. Michael is available for a new role. Transitional Builders ended in September 2026 after approximately five months. WorkStaff360 / O'Dorisio is a past engagement. Public contact is email; phone is available on request.

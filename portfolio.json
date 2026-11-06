@@ -19,16 +19,19 @@
         "title": "Licensed Civil Engineer",
         "body": "Philippines · BS Civil Engineering"
       }
-    ]
+    ],
+    "availability": "Available for a new role",
+    "availabilitySummary": "My previous engagements have ended. I am looking for a new role in construction coordination, estimating, quantity surveying, Business Intelligence or automation.",
+    "availabilityNote": "Also open to freelance and project based work."
   },
   "companies": [
     {
       "id": "arcadis",
       "name": "Arcadis",
       "role": "Business Intelligence & Automation Specialist · Quantity Surveying",
-      "period": "Jan 2019 to Present",
-      "status": "Current",
-      "summary": "Cost management and digital delivery across infrastructure, utilities and procurement: estimates, commercial reporting, common data environments, Power BI and automation.",
+      "period": "Jan 2019 to Oct 2026",
+      "status": "Completed engagement",
+      "summary": "Provided cost management and digital support across infrastructure, utilities and procurement, including estimates, commercial reporting, common data environments, Power BI and automation.",
       "scope": [
         "Business intelligence and procurement reporting",
         "Workflow automation and data validation",
@@ -185,7 +188,7 @@
       "name": "GOEL Construction",
       "role": "Estimator · Construction Support",
       "period": "2021 to 2025",
-      "status": "Earlier experience",
+      "status": "Completed engagement",
       "summary": "Demolition estimating and cost planning, supported by manpower coordination, pricing checks and subcontractor communication.",
       "scope": [
         "Demolition project estimation",
@@ -213,7 +216,7 @@
       "name": "Convergence Realty / ESL Construction",
       "role": "Quantity Surveyor · Cost Control",
       "period": "Earlier experience",
-      "status": "Earlier experience",
+      "status": "Completed engagement",
       "summary": "Quantity surveying and commercial documentation for development projects, including cost control, payment evaluation and financial reporting.",
       "scope": [
         "Quantity surveying and project cost updates",
@@ -241,7 +244,7 @@
       "name": "Mega M Builder / Freelance Projects",
       "role": "Civil Engineer · Project Coordinator · Estimator",
       "period": "Earlier experience",
-      "status": "Earlier experience",
+      "status": "Completed engagement",
       "summary": "Planning, budgeting and construction supervision for local government schools and roads, hospital expansion and commercial works.",
       "scope": [
         "Project planning and estimating",
@@ -269,7 +272,7 @@
       "name": "Sta. Clara International Corporation",
       "role": "Tendering Engineer · Site Engineer · Quantity Surveyor",
       "period": "Earlier experience",
-      "status": "Earlier experience",
+      "status": "Completed engagement",
       "summary": "Tendering, site engineering, quantity surveying and material control for building and infrastructure assignments.",
       "scope": [
         "Tender quantity takeoff and cost preparation",
@@ -299,9 +302,9 @@
       "title": "Procurement holds reporting",
       "companyId": "arcadis",
       "category": "Data & BI",
-      "summary": "Rebuilding spreadsheet reporting in Power BI, with separate views for the latest reporting week and historical trends.",
-      "status": "In progress",
-      "period": "September 2026 update",
+      "summary": "Power BI model development with separate views for the latest reporting week and historical trends.",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "A procurement reporting process needed to retain its existing history while transitioning future reporting to automated weekly data. The model must distinguish current position metrics from changes across reporting weeks.",
       "contributions": [
@@ -313,7 +316,7 @@
       ],
       "deliverables": [
         "Power BI model with history and latest snapshot queries",
-        "Overview and weekly trend measures under validation",
+        "Overview and weekly trend measures",
         "Data quality and duplicate record assessment",
         "Reconciliation and model cleanup actions"
       ],
@@ -324,19 +327,20 @@
         "SharePoint",
         "Excel"
       ],
-      "outcome": "The source transition and weekly snapshot process are in place. Model cleanup, measure review, currency validation and stakeholder acceptance remain in progress as of 23 September 2026.",
-      "nextSteps": [
-        "Complete measure and relationship review.",
-        "Validate current period totals and comparable weekly trends.",
-        "Resolve outstanding data quality and currency mapping questions.",
-        "Complete approval, refresh and release checks."
-      ],
+      "outcome": "The source transition and weekly snapshot process were in place at the last documented update in September 2026. Model cleanup, measure review, currency validation and stakeholder acceptance were still in progress in that record. My involvement ended in October 2026.",
+      "nextSteps": [],
       "workflow": [
         "Source review",
         "Snapshot model",
         "Measure development",
         "Reconciliation",
         "Stakeholder validation"
+      ],
+      "recordedFollowUp": [
+        "Complete measure and relationship review.",
+        "Validate current period totals and comparable weekly trends.",
+        "Resolve outstanding data quality and currency mapping questions.",
+        "Complete approval, refresh and release checks."
       ]
     },
     {
@@ -344,9 +348,9 @@
       "title": "Weekly reporting snapshot automation",
       "companyId": "arcadis",
       "category": "Automation",
-      "summary": "Preserving dated weekly source files so reporting can show a reliable history alongside the latest available position.",
-      "status": "Implemented · monitoring",
-      "period": "September 2026 update",
+      "summary": "Preserved dated weekly source files so reporting could show a reliable history alongside the latest available position.",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "Replacing source files each week loses the evidence needed for trend reporting. The reporting workflow needed to collect current inputs without overwriting earlier reporting periods.",
       "contributions": [
@@ -368,17 +372,18 @@
         "Power Query",
         "Power BI"
       ],
-      "outcome": "The updated automation has run successfully and preserves weekly files. Monitoring and reporting validation continue.",
-      "nextSteps": [
-        "Monitor scheduled runs and source completeness.",
-        "Validate that new reporting weeks appear correctly in both current and trend views."
-      ],
+      "outcome": "The updated automation ran successfully and preserved weekly files. Monitoring and reporting validation were recorded as ongoing in September 2026. My involvement ended in October 2026.",
+      "nextSteps": [],
       "workflow": [
         "Collect source files",
         "Create dated copies",
         "Combine weekly history",
         "Identify latest period",
         "Validate refresh"
+      ],
+      "recordedFollowUp": [
+        "Monitor scheduled runs and source completeness.",
+        "Validate that new reporting weeks appear correctly in both current and trend views."
       ]
     },
     {
@@ -386,9 +391,9 @@
       "title": "Purchase order lifecycle reporting",
       "companyId": "arcadis",
       "category": "Data & BI",
-      "summary": "Implementing requested reporting changes for purchase order closure and reopening, with validation and release support.",
-      "status": "Implemented · support",
-      "period": "September 2026 update",
+      "summary": "Implemented requested reporting changes for purchase order closure and reopening, with validation and release support.",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "Procurement teams required changes to lifecycle reporting so eligibility and invoice information reflected updated process requirements.",
       "contributions": [
@@ -409,16 +414,17 @@
         "SharePoint",
         "Power Platform"
       ],
-      "outcome": "Requested logic changes were implemented. Deployment, refresh and report support remain part of the ongoing work.",
-      "nextSteps": [
-        "Continue validation and refresh support after release as required."
-      ],
+      "outcome": "Requested logic changes were implemented, with deployment, refresh and report support included in the recorded work. My involvement ended in October 2026.",
+      "nextSteps": [],
       "workflow": [
         "Review change request",
         "Update logic",
         "Validate outputs",
         "Deploy",
         "Check production"
+      ],
+      "recordedFollowUp": [
+        "Continue validation and refresh support after release as required."
       ]
     },
     {
@@ -427,8 +433,8 @@
       "companyId": "arcadis",
       "category": "Data & BI",
       "summary": "A reporting suite that connects request details, turnaround views and automated process timestamps.",
-      "status": "Delivered · support",
-      "period": "September 2026 update",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "An IT peripherals process needed reporting that could show both the overall position and the detail behind request turnaround times.",
       "contributions": [
@@ -449,7 +455,7 @@
         "Power BI",
         "Power Automate"
       ],
-      "outcome": "The reporting solution was delivered to production with UAT and approval support. The workstream is in ongoing support.",
+      "outcome": "The reporting solution was delivered to production with UAT and approval support. I provided release checks and support before my involvement ended in October 2026.",
       "nextSteps": [],
       "workflow": [
         "Map tracking needs",
@@ -465,8 +471,8 @@
       "companyId": "arcadis",
       "category": "Data & BI",
       "summary": "Power BI reporting from operational exports, combining year to date, trend and transaction level views.",
-      "status": "Awaiting publication decision",
-      "period": "September 2026 update",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "A procurement reporting workstream needed views for business users of operational data, supported by source validation and an agreed publication and access approach.",
       "contributions": [
@@ -485,17 +491,18 @@
         "Power BI",
         "OTBI exports"
       ],
-      "outcome": "Reporting has been built. The production publication and access decision remains pending in the latest work update.",
-      "nextSteps": [
-        "Complete any outstanding business and source validation.",
-        "Confirm publication and access arrangements with the responsible stakeholders."
-      ],
+      "outcome": "The reporting was built. Production publication and access approval were pending at the last documented update in September 2026. My involvement ended in October 2026.",
+      "nextSteps": [],
       "workflow": [
         "Review source exports",
         "Build reporting views",
         "Validate business results",
         "Review access",
         "Plan publication"
+      ],
+      "recordedFollowUp": [
+        "Complete any outstanding business and source validation.",
+        "Confirm publication and access arrangements with the responsible stakeholders."
       ]
     },
     {
@@ -503,9 +510,9 @@
       "title": "PDF email workflow troubleshooting",
       "companyId": "arcadis",
       "category": "Automation",
-      "summary": "Investigating an automation that sends an extra email with an empty or incorrectly named PDF attachment.",
-      "status": "Under review",
-      "period": "September 2026 update",
+      "summary": "Investigated an automation that sent an extra email with an empty or incorrectly named PDF attachment.",
+      "status": "Completed engagement",
+      "period": "2026 · involvement ended Oct 2026",
       "role": "BI & Automation Specialist",
       "context": "A document workflow was producing the required PDF email as well as an unwanted second output. The investigation focused on identifying the branch responsible for the incorrect attachment.",
       "contributions": [
@@ -523,16 +530,17 @@
       "tools": [
         "Power Automate"
       ],
-      "outcome": "The issue is under review. A successful complete correction is not yet recorded in the latest work update.",
-      "nextSteps": [
-        "Complete the targeted branch correction.",
-        "Run a controlled test confirming one email with the correct attachment and content."
-      ],
+      "outcome": "The issue was under review at the last documented update in September 2026, and a complete correction was not recorded. My involvement ended in October 2026.",
+      "nextSteps": [],
       "workflow": [
         "Trace flow branches",
         "Compare outputs",
         "Target the incorrect branch",
         "Run controlled test"
+      ],
+      "recordedFollowUp": [
+        "Complete the targeted branch correction.",
+        "Run a controlled test confirming one email with the correct attachment and content."
       ]
     },
     {
